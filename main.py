@@ -1,3 +1,5 @@
+# author: Fransiskus Agapa
+
 from school import School
 from school import Teacher
 from school import Student
